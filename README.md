@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janhvi2000
 - 👀 I’m interested in learning front-end development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
 - 📫 Reach me on https://janhvi2000.github.io/Janhvi-Guha-Website/
 
 <!---
