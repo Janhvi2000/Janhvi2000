@@ -5,9 +5,9 @@
 ## 🚀 About Me  
 I am a passionate **Software Engineer & Data Analyst** with expertise in **Big Data, Cloud Computing, and Machine Learning**. I love solving complex problems with technology, building scalable solutions, and working with data-driven insights.  
 
-- 🔹 Experienced in **ETL pipelines, real-time data streaming, predictive modeling, and full-stack development**  
-- 🔹 Strong knowledge of **Cloud Infrastructure (AWS, Google Cloud), Big Data Analytics, and ML**  
-- 🔹 Love working on **scalable architectures, automation, and AI-powered insights**  
+🔹 Experienced in **ETL pipelines, real-time data streaming, predictive modeling, and full-stack development**  
+🔹 Strong knowledge of **Cloud Infrastructure (AWS, Google Cloud), Big Data Analytics, and ML**  
+🔹 Love working on **scalable architectures, automation, and AI-powered insights**  
 
 ---
 
